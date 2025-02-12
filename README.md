@@ -1,1 +1,3 @@
 # Connect-4-Game-
+ Connect 4 Game! 🎉 I successfully developed a two-player Connect 4 game, leveraging my skills in web development. Built with HTML, CSS, JavaScript, and React, this game features a seamless UI, real-time gameplay, and an intuitive user experience 🎮. I improved my skills in game logic, UI/UX design, and algorithm development 📊, as well as honed my expertise in front-end development, responsive design, and interactive web applications. It was a fantastic learning experience, and I'm proud of what I've achieved 💪. #WebDevelopment #GameDevelopment #React #FrontendDevelopment
+![Screenshot (36)](https://github.com/user-attachments/assets/75bbc82f-46f0-4133-932d-ca15c9bb6a94)
